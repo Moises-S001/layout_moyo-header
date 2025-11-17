@@ -61,7 +61,7 @@ body {
   align-items: center;
 }
 
-.dif {
+.is-active {
   color: var(--blue-color);
 }
 
